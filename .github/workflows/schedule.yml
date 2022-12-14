@@ -13,5 +13,5 @@ jobs:
         uses: iOS-JS/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 76c562ee821c3d713a685b5b8ec39379
+          GIST_ID: 1a18fe6e7d01c317351d23dba7927691
           TIMEZONE: Asia/Seoul
